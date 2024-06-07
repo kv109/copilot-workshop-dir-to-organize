@@ -1,0 +1,1 @@
+Develop a script that reads all .txt files in a given directory and counts the total number of lines across all files. The script should print the total line count and the line count for each individual file.
